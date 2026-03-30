@@ -34,7 +34,7 @@
 
 ## Table 2: Comparison with Different K Values
 
-| Algorithm | Ant Reward          | Ant Cost        | Coupled Reward      | Coupled Cost    |
+| Algorithm | Ant Reward          | Ant Cost        | Coupled Half Cheetah Reward      | Coupled Half Cheetah Cost    |
 | --------- | ------------------- | --------------- | ------------------- | --------------- |
 | HAPPO     | 41.29 ± 215.89      | 311.96 ± 67.96  | 2197.22 ± 112.77    | 230.28 ± 67.11  |
 | K=1000    | 698.50 ± 181.70     | 4.27 ± 6.67     | 2567.26 ± 51.97     | 17.96 ± 32.99   |
