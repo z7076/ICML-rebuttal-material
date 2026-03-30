@@ -1,6 +1,6 @@
 # ICML-rebuttal-material
 
-## Figure 1
+## Figure 1. Decentralized Coupled HalfCheetah task with neither fully global nor fully local observations.
 
 ![Decentralized Coupled HalfCheetah task with neither fully global nor fully local observations.](nocoh_plot_nocoh_mas3ac_neighbour.png)
 
@@ -22,13 +22,13 @@
 
 ---
 
-## Figure 2
+## Figure 2. Reward and safety cost comparison when using only safety constraint, only stability constraint, and both safety and stability constraints.
 
 ![Reward and safety cost comparison when using only safety constraint, only stability constraint, and both safety and stability constraints.](safestable_plot_final_custom_steps.png)
 
 ---
 
-## Figure 3
+## Figure 3. Reward and safety cost comparison for two tasks with different K values for learning rate design.
 
 ![Reward and safety cost comparison for two tasks with different K values for learning rate design.](differentK_plot_final_custom_steps.png)
 
