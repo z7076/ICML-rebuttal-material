@@ -1,5 +1,3 @@
-# ICML-rebuttal-material
-
 ## Figure 1. Decentralized Coupled HalfCheetah task with neither fully global nor fully local observations.
 
 ![Decentralized Coupled HalfCheetah task with neither fully global nor fully local observations.](nocoh_plot_nocoh_mas3ac_neighbour.png)
