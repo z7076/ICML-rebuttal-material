@@ -1,23 +1,19 @@
 ## Figure 1. Decentralized Coupled HalfCheetah task with neither fully global nor fully local observations.
 
-![Decentralized Coupled HalfCheetah task with neither fully global nor fully local observations.](nocoh_plot_nocoh_mas3ac_neighbour.png)
-
+<img src="nocoh_plot_nocoh_mas3ac_neighbour.png" width="100%">
 
 ## Table 1: Reward and safety cost comparison for the non-cooperative Coupled HalfCheetah task with neither fully global nor fully local observations
 
-![Reward and safety cost comparison for the non-cooperative Coupled HalfCheetah task with neither fully global nor fully local observations.](table_1.png)
-
+<img src="table_1.png" width="100%">
 
 ## Figure 2. Reward and safety cost comparison when using only safety constraint, only stability constraint, and both safety and stability constraints.
 
-![Reward and safety cost comparison when using only safety constraint, only stability constraint, and both safety and stability constraints.](safestable_plot_final_custom_steps.png)
-
+<img src="safestable_plot_final_custom_steps.png" width="50%">
 
 ## Figure 3. Reward and safety cost comparison for two tasks with different K values for learning rate design.
 
-![Reward and safety cost comparison for two tasks with different K values for learning rate design.](differentK_plot_final_custom_steps.png)
-
+<img src="differentK_plot_final_custom_steps.png" width="80%">
 
 ## Table 2: Reward and safety cost comparison for two tasks with different K values for learning rate design
 
-![Reward and safety cost comparison for two tasks with different K values for learning rate design.](table_2.png)
+<img src="table_2.png" width="80%">
