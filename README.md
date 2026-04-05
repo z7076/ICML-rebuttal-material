@@ -22,6 +22,6 @@
 
 <img src="main_new_couple_plot.png" width="70%">
 
-## Table 4. Reward and safety cost comparison for the modified Coupled HalfCheetah task.
+## Table 3. Reward and safety cost comparison for the modified Coupled HalfCheetah task.
 
 <img src="table_3.png" width="60%">
