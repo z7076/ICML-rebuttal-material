@@ -17,3 +17,11 @@
 ## Table 2: Reward and safety cost comparison for two tasks with different K values for learning rate design
 
 <img src="table_2.png" width="80%">
+
+## Figure 4. Reward and safety cost comparison for the modified Coupled HalfCheetah task.
+
+<img src="main_new_couple_plot.png" width="80%">
+
+## Table 4. Reward and safety cost comparison for the modified Coupled HalfCheetah task.
+
+<img src="table_3.png" width="80%">
